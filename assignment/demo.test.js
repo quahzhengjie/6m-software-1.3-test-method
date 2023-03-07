@@ -1,6 +1,8 @@
 const {studentList, printStudentNames} = require("./q2-arrays-loop");
 const {convert} = require("./q3-objects");
 
+//NPM RUN TEST to run JEST
+
 describe("Demo", ()=>{
 
     it("should test the printStudentNames function of q2", ()=>{
